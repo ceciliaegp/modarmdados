@@ -1,0 +1,272 @@
+[
+    {
+        "nome": "Acre",
+        "sigla": "AC",
+        "capital": "Rio Branco",
+        "populacao": 0.9,
+        "temperatura_minima": 22.0,
+        "temperatura_maxima": 32.0,
+        "municipios": 22,
+        "limites": ["AM", "RO"]
+    },
+    {
+        "nome": "Alagoas",
+        "sigla": "AL",
+        "capital": "Maceió",
+        "populacao": 3.3,
+        "temperatura_minima": 22.0,
+        "temperatura_maxima": 31.0,
+        "municipios": 102,
+        "limites": ["PE", "SE", "BA"]
+    },
+    {
+        "nome": "Amapá",
+        "sigla": "AP",
+        "capital": "Macapá",
+        "populacao": 0.9,
+        "temperatura_minima": 24.0,
+        "temperatura_maxima": 32.0,
+        "municipios": 16,
+        "limites": ["PA"]
+    },
+    {
+        "nome": "Amazonas",
+        "sigla": "AM",
+        "capital": "Manaus",
+        "populacao": 3.9,
+        "temperatura_minima": 23.0,
+        "temperatura_maxima": 32.0,
+        "municipios": 62,
+        "limites": ["RR", "PA", "MT", "RO", "AC"]
+    },
+    {
+        "nome": "Bahia",
+        "sigla": "BA",
+        "capital": "Salvador",
+        "populacao": 14.9,
+        "temperatura_minima": 20.0,
+        "temperatura_maxima": 32.0,
+        "municipios": 417,
+        "limites": ["MG", "ES", "GO", "TO", "PE", "AL", "SE", "PI"]
+    },
+    {
+        "nome": "Ceará",
+        "sigla": "CE",
+        "capital": "Fortaleza",
+        "populacao": 8.8,
+        "temperatura_minima": 23.0,
+        "temperatura_maxima": 32.0,
+        "municipios": 184,
+        "limites": ["RN", "PB", "PE", "PI"]
+    },
+    {
+        "nome": "Distrito Federal",
+        "sigla": "DF",
+        "capital": "Brasília",
+        "populacao": 3.1,
+        "temperatura_minima": 15.0,
+        "temperatura_maxima": 28.0,
+        "municipios": 1,
+        "limites": ["GO", "MG"]
+    },
+    {
+        "nome": "Espírito Santo",
+        "sigla": "ES",
+        "capital": "Vitória",
+        "populacao": 4.0,
+        "temperatura_minima": 19.0,
+        "temperatura_maxima": 31.0,
+        "municipios": 78,
+        "limites": ["RJ", "MG", "BA"]
+    },
+    {
+        "nome": "Goiás",
+        "sigla": "GO",
+        "capital": "Goiânia",
+        "populacao": 7.2,
+        "temperatura_minima": 17.0,
+        "temperatura_maxima": 30.0,
+        "municipios": 246,
+        "limites": ["MT", "MS", "MG", "BA", "TO", "DF"]
+    },
+    {
+        "nome": "Maranhão",
+        "sigla": "MA",
+        "capital": "São Luís",
+        "populacao": 7.1,
+        "temperatura_minima": 23.0,
+        "temperatura_maxima": 32.0,
+        "municipios": 217,
+        "limites": ["PI", "TO", "PA"]
+    },
+    {
+        "nome": "Mato Grosso",
+        "sigla": "MT",
+        "capital": "Cuiabá",
+        "populacao": 3.5,
+        "temperatura_minima": 20.0,
+        "temperatura_maxima": 34.0,
+        "municipios": 141,
+        "limites": ["AM", "PA", "TO", "GO", "MS", "RO"]
+    },
+    {
+        "nome": "Mato Grosso do Sul",
+        "sigla": "MS",
+        "capital": "Campo Grande",
+        "populacao": 2.8,
+        "temperatura_minima": 19.0,
+        "temperatura_maxima": 33.0,
+        "municipios": 79,
+        "limites": ["MT", "GO", "MG", "SP", "PR"]
+    },
+    {
+        "nome": "Minas Gerais",
+        "sigla": "MG",
+        "capital": "Belo Horizonte",
+        "populacao": 20.5,
+        "temperatura_minima": 10.0,
+        "temperatura_maxima": 30.0,
+        "municipios": 853,
+        "limites": ["SP", "RJ", "ES", "BA", "GO", "DF", "MS"]
+    },
+    {
+        "nome": "Pará",
+        "sigla": "PA",
+        "capital": "Belém",
+        "populacao": 8.6,
+        "temperatura_minima": 24.0,
+        "temperatura_maxima": 33.0,
+        "municipios": 144,
+        "limites": ["AP", "MA", "TO", "MT", "AM", "RR"]
+    },
+    {
+        "nome": "Paraíba",
+        "sigla": "PB",
+        "capital": "João Pessoa",
+        "populacao": 4.0,
+        "temperatura_minima": 23.0,
+        "temperatura_maxima": 31.0,
+        "municipios": 223,
+        "limites": ["RN", "CE", "PE"]
+    },
+    {
+        "nome": "Paraná",
+        "sigla": "PR",
+        "capital": "Curitiba",
+        "populacao": 11.4,
+        "temperatura_minima": 8.0,
+        "temperatura_maxima": 26.0,
+        "municipios": 399,
+        "limites": ["SP", "SC", "MS"]
+    },
+    {
+        "nome": "Pernambuco",
+        "sigla": "PE",
+        "capital": "Recife",
+        "populacao": 9.7,
+        "temperatura_minima": 22.0,
+        "temperatura_maxima": 31.0,
+        "municipios": 185,
+        "limites": ["PB", "CE", "PI", "BA", "AL"]
+    },
+    {
+        "nome": "Piauí",
+        "sigla": "PI",
+        "capital": "Teresina",
+        "populacao": 3.3,
+        "temperatura_minima": 22.0,
+        "temperatura_maxima": 34.0,
+        "municipios": 224,
+        "limites": ["CE", "PE", "BA", "MA", "TO"]
+    },
+    {
+        "nome": "Rio de Janeiro",
+        "sigla": "RJ",
+        "capital": "Rio de Janeiro",
+        "populacao": 17.3,
+        "temperatura_minima": 18.0,
+        "temperatura_maxima": 32.0,
+        "municipios": 92,
+        "limites": ["MG", "ES", "SP"]
+    },
+    {
+        "nome": "Rio Grande do Norte",
+        "sigla": "RN",
+        "capital": "Natal",
+        "populacao": 3.5,
+        "temperatura_minima": 23.0,
+        "temperatura_maxima": 31.0,
+        "municipios": 167,
+        "limites": ["PB", "CE"]
+    },
+    {
+        "nome": "Rio Grande do Sul",
+        "sigla": "RS",
+        "capital": "Porto Alegre",
+        "populacao": 11.3,
+        "temperatura_minima": 9.0,
+        "temperatura_maxima": 27.0,
+        "municipios": 497,
+        "limites": ["SC"]
+    },
+    {
+        "nome": "Rondônia",
+        "sigla": "RO",
+        "capital": "Porto Velho",
+        "populacao": 1.8,
+        "temperatura_minima": 22.0,
+        "temperatura_maxima": 33.0,
+        "municipios": 52,
+        "limites": ["AM", "MT", "AC"]
+    },
+    {
+        "nome": "Roraima",
+        "sigla": "RR",
+        "capital": "Boa Vista",
+        "populacao": 0.6,
+        "temperatura_minima": 24.0,
+        "temperatura_maxima": 35.0,
+        "municipios": 15,
+        "limites": ["AM", "PA"]
+    },
+    {
+        "nome": "Santa Catarina",
+        "sigla": "SC",
+        "capital": "Florianópolis",
+        "populacao": 7.6,
+        "temperatura_minima": 10.0,
+        "temperatura_maxima": 28.0,
+        "municipios": 295,
+        "limites": ["PR", "RS"]
+    },
+    {
+        "nome": "São Paulo",
+        "sigla": "SP",
+        "capital": "São Paulo",
+        "populacao": 44.4,
+        "temperatura_minima": 12.0,
+        "temperatura_maxima": 28.0,
+        "municipios": 645,
+        "limites": ["MG", "RJ", "PR", "MS"]
+    },
+    {
+        "nome": "Sergipe",
+        "sigla": "SE",
+        "capital": "Aracaju",
+        "populacao": 2.3,
+        "temperatura_minima": 23.0,
+        "temperatura_maxima": 31.0,
+        "municipios": 75,
+        "limites": ["AL", "BA"]
+    },
+    {
+        "nome": "Tocantins",
+        "sigla": "TO",
+        "capital": "Palmas",
+        "populacao": 1.6,
+        "temperatura_minima": 21.0,
+        "temperatura_maxima": 32.0,
+        "municipios": 139,
+        "limites": ["PA", "MA", "PI", "BA", "GO", "MT"]
+    }
+]
